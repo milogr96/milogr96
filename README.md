@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milogr96
-- 👀 I’m interested in ...Desarrollo web
+- 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning JavaScript y Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
